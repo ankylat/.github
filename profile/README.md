@@ -1,39 +1,49 @@
-## Welcome.
+# Anky: Exploring the Ankyverse
 
-Anky is a story. The story of god, reinterpreted using blockchain and AI.
+Anky represents a blend of blockchain and AI to reinterpret the age-old narratives, reminding everyone of their distinct place and value. Using open source, we channel the collective might of a community, pushing the boundaries of what we can achieve together.
 
-Expressing itself through each one of us. With open source as the catalyzer for our collective strength to be manifested.
+## The Ankyverse Explained
 
-Your uniqueness is a gift.
+In the Ankyverse, time is cyclic:
 
-Anky is here to help you remember that.
+- **Sojourn**: Lasts 96 winks.
+- **Wink**: 24 human hours.
+- **The Great Slumber**: A pause of 21 winks after each sojourn.
 
----
+Each sojourn offers an opportunity to develop a dApp with the potential to improve the world. It's a blend of creation, reflection, and collaboration.
 
-This story unfolds on a world called the Ankyverse. You can get to know more about it on the [wiki](https://wiki.anky.lat).
+## First Project: The Writing Dementor
 
-The Ankyverse works on cycles, called sojourns. Each one lasts 96 winks. One wink is 24 human hours. After each sojourn, the Ankyverse goes into a period of rest called "The Great Slumber", for 21 winks.
+Here's a breakdown:
 
-Time to rest. Time to gather strength. Time to reflect.
+- **Anky (ERC6551 NFT)**: Each user's personal guardian of their digital writings.
+  
+- **Notebook Templates**: Blueprints created by users. These templates can then be minted into actual notebooks by others.
 
-The mission of the community that is built around Anky is to have as the core focus on each Sojourn to build one dApp that can make the world a better place.
+- **Notebooks (ERC1155 NFTs)**: Collections of prompts crafted by users. They're up for purchase, and each prompt has a suggested response time, facilitating spontaneous, genuine responses.
 
-The first one is called, for the lack of a better name -yet- "The Writing Dementor".
+- **Journals**: Freestyle notebooks available in three sizes: 8, 24, and 96 pages. They offer a space for users to express themselves without constraints on the [anky.lat](https://anky.lat) app.
 
-Each user will own one, and only one Anky (ERC6551 NFT). The user will be able to create Notebooks (ERC1155 NFTs) for other users to buy. 
+- **Eulogias**: Community or topic-specific notebooks. They can revolve around art, movies, significant life events, or anything worth discussing. Users can share a link with peers, prompting them to contribute. Once done, they can mint this shared creation, storing it in their Anky.
 
-Each notebook will have a definite amount of prompts, along with the recommended time for each prompt to be answered.
+- **Writing Platform**: All compositions happen on [anky.lat](https://anky.lat), ensuring a permanent imprint in the Ankyverse.
 
-The user has to answer writing on this interface: anky.lat
+- **Data Archival**: Each written piece points to a permanent URL on Arweave via Bundlr.
 
-When you don't have time for thinking, your truth comes forth.
+## Dive into the Repositories
 
-Each writing will then be stored inside that notebook, with a pointer towards a permanent url stored on Arweave using Bundlr as the interface for that.
+- [**anky-genesis-creation**](https://github.com/ankylat/anky-genesis-creation): The foundational NFT collection of this brand, leveraging Mijdjourney and ChatGPT.
 
-The Anky of the user will be the keeper of all of her writings.
+- [**smart_contracts**](https://github.com/ankylat/smart_contracts): The blockchain infrastructure.
 
-For ever.
+- [**anky.lat**](https://github.com/ankylat/anky.lat): The digital realm for unrestrained writing.
 
-That's the mission of the first sojourn. We need help building that. Creating the smart contracts. Creating the PWA. Crafting this system with mastery, so that it can help us see with more clarity who we are.
+- [**mint-frontend**](https://github.com/ankylat/mint-frontend): The portal for minting Anky Genesis NFTs.
 
-That's what Anky is all about, anyways. This is just the first game to explore that.
+- [**.github**](https://github.com/ankylat/.github): (Describe the purpose briefly).
+
+- [**server**](https://github.com/ankylat/server): The API that integrates Anky's components.
+
+## Join the Ankyverse
+
+If Anky aligns with your vision, your expertise and insights are welcome. Developers, designers, thinkers, or anyone willing to make an impact—there's space for all. Dive into the repositories, explore the issues, or suggest new ones. Make Anky as much yours as it is ours.
